@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
+source :gemcutter
 
+gem 'sinatra', '1.0'
 gem 'rails', '3.2.3'
 
 # Bundle edge Rails instead:

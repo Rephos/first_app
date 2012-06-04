@@ -108,10 +108,4 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  coffee-rails (~> 3.2.1)
-  jquery-rails
-  rails (= 3.2.3)
-  sass-rails (~> 3.2.3)
-  sinatra (= 1.0)
-  sqlite3-ruby
-  uglifier (>= 1.0.3)
+
